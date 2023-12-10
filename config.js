@@ -49,7 +49,7 @@ module.exports = {
   //antilinkaction: process.env.BRANCH || 'remove',
   BRANCH: process.env.BRANCH || 'main',
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
-  caption: process.env.CAPTION || "```ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ```",   //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption: process.env.CAPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦✧𝐙O͢𝐘𝐀✧✦*",   //*『زویا_Zoya@』*\n https://wa.me/+94702932200?text=Hello😚♥️"),
   OPENAI_API_KEY: process.env.OPENAI_API_KEY,
   userImages: process.env.USER_IMAGES || "",// 'https://i.imgur.com/NpA3ZsJ.jpeg,https://telegra.ph/file/d9a63ef4f8110a6d87167.mp4,https://telegra.ph/file/41c41e73c1c5f11bdb1df.mp4,https://telegra.ph/file/acaba47a11c6975248c84.mp4' ,
   // antiDelete: process.env.ANTIDELETE ||  'true' ,
